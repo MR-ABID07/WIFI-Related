@@ -175,6 +175,6 @@ Password: `55555555` → web login
 ##  ↡ 
 ```bash 
 Network name: SAM_V2/-5G
-Password: `@deauther/sam.pass`
+Password: @deauther/sam.pass
 ```
 #### Location : Gausear pashea
