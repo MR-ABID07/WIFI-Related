@@ -1,4 +1,3 @@
-
 # WIFI PASSWORD'S
 
 
@@ -169,3 +168,13 @@ Password: `azad1970`
 ### 21. Network Name name: Miraj
 Password: `20002000`
 #### Location : Mokor Dukan 
+
+### 22. Network name: kantathai/-5G
+
+Password: `55555555` → web login
+##  ↡ 
+```bash 
+Network name: SAM_V2/-5G
+Password: `@deauther/sam.pass`
+```
+#### Location : Gausear pashea
