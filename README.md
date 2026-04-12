@@ -178,3 +178,6 @@ Network name: SAM_V2/-5G
 Password: @deauther/sam.pass
 ```
 #### Location : Gausear pashea
+
+### 23. Network Name: ZTE_2.4G_kCTXq7
+Password: `R3KGC4kk`
