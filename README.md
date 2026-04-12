@@ -140,7 +140,7 @@ Password: `12345678`
 ##  ↡ 
 ```bash
 Network Name: Tenda_VIP2
-Password: @0987654321@
+Password: $1234567/
 ``` 
 ### 16. Network Name: ROUSHON
 Password: `rashad0010`
