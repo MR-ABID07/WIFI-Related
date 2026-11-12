@@ -28,7 +28,7 @@ Easily configure your WiFi name (SSID), change passwords, block unknown devices,
     <!-- TP-LINK TETHER -->
     <tr>
       <td align="center">
-        <img src="assets/logos/tplink-tether.png" width="60" height="60" alt="TP-Link Tether Logo" style="border-radius: 12px;" />
+        <img src="assets/logos/tplink-tether.webp" width="60" height="60" alt="TP-Link Tether Logo" style="border-radius: 12px;" />
       </td>
       <td>
         <strong>TP-Link Tether</strong><br>
@@ -49,7 +49,7 @@ Easily configure your WiFi name (SSID), change passwords, block unknown devices,
     <!-- TENDA WIFI -->
     <tr>
       <td align="center">
-        <img src="assets/logos/tenda-wifi.png" width="60" height="60" alt="Tenda WiFi Logo" style="border-radius: 12px;" />
+        <img src="assets/logos/tenda-wifi.webp" width="60" height="60" alt="Tenda WiFi Logo" style="border-radius: 12px;" />
       </td>
       <td>
         <strong>Tenda WiFi</strong><br>
@@ -70,7 +70,7 @@ Easily configure your WiFi name (SSID), change passwords, block unknown devices,
     <!-- BEE WIFI -->
     <tr>
       <td align="center">
-        <img src="assets/logos/bee-wifi.png" width="60" height="60" alt="Bee WiFi Logo" style="border-radius: 12px;" />
+        <img src="assets/logos/bee-wifi.webp" width="60" height="60" alt="Bee WiFi Logo" style="border-radius: 12px;" />
       </td>
       <td>
         <strong>BeeWiFi</strong><br>
@@ -91,7 +91,7 @@ Easily configure your WiFi name (SSID), change passwords, block unknown devices,
     <!-- RUIJIE REYEE -->
     <tr>
       <td align="center">
-        <img src="assets/logos/ruijie-reyee.png" width="60" height="60" alt="Ruijie Reyee Logo" style="border-radius: 12px;" />
+        <img src="assets/logos/ruijie-reyee.webp" width="60" height="60" alt="Ruijie Reyee Logo" style="border-radius: 12px;" />
       </td>
       <td>
         <strong>Ruijie Reyee</strong><br>
