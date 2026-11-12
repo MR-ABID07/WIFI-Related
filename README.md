@@ -40,9 +40,9 @@ Easily configure your WiFi name (SSID), change passwords, block unknown devices,
       <td align="center">
         <a href="YOUR_DIRECT_APK_LINK_HERE">
           <img src="https://img.shields.io/badge/Direct_APK-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Direct Download" />
-        </a><br>
+        </a><br><br>
         <a href="https://play.google.com/store/apps/details?id=com.tplink.tether">
-          <img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+          <img src="https://img.shields.io/badge/Play_Store-212121?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
         </a>
       </td>
     </tr>
@@ -61,9 +61,9 @@ Easily configure your WiFi name (SSID), change passwords, block unknown devices,
       <td align="center">
         <a href="YOUR_DIRECT_APK_LINK_HERE">
           <img src="https://img.shields.io/badge/Direct_APK-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Direct Download" />
-        </a><br>
+        </a><br><br>
         <a href="https://play.google.com/store/apps/details?id=com.tenda.router.app">
-          <img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+          <img src="https://img.shields.io/badge/Play_Store-212121?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
         </a>
       </td>
     </tr>
@@ -82,9 +82,9 @@ Easily configure your WiFi name (SSID), change passwords, block unknown devices,
       <td align="center">
         <a href="YOUR_DIRECT_APK_LINK_HERE">
           <img src="https://img.shields.io/badge/Direct_APK-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Direct Download" />
-        </a><br>
+        </a><br><br>
         <a href="https://play.google.com/store/apps/details?id=com.netis.quickconfig">
-          <img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+          <img src="https://img.shields.io/badge/Play_Store-212121?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
         </a>
       </td>
     </tr>
@@ -103,9 +103,9 @@ Easily configure your WiFi name (SSID), change passwords, block unknown devices,
       <td align="center">
         <a href="YOUR_DIRECT_APK_LINK_HERE">
           <img src="https://img.shields.io/badge/Direct_APK-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Direct Download" />
-        </a><br>
+        </a><br><br>
         <a href="https://play.google.com/store/apps/details?id=cn.com.ruijie.cloudapp">
-          <img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+          <img src="https://img.shields.io/badge/Play_Store-212121?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
         </a>
       </td>
     </tr>
@@ -116,11 +116,6 @@ Easily configure your WiFi name (SSID), change passwords, block unknown devices,
 
 ## 🛠️ Quick Setup Guide
 
-1. **Connect to WiFi:** Ensure your phone is connected to the router's default WiFi network.
-2. **Install App:** Use the **Direct APK** button (if you don't have Play Services) or the **Play Store** button above.
-3. **Log In:** Open the app and enter your router's admin password (usually found on the sticker underneath the router).
-
----
-
-## ⚠️ Disclaimer
-All app logos and trademarks belong to their respective owners (TP-Link, Tenda, Netis, Ruijie Networks). Direct APK links are provided solely for educational and offline installation convenience.
+1. **Connect to WiFi:** Ensure your phone is connected to the router's local network.
+2. **Install App:** Use the **Direct APK** button or the **Play Store** button above.
+3. **Log In:** Open the app and log in using your admin credentials.
