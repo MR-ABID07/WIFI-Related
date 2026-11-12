@@ -38,7 +38,7 @@ Easily configure your WiFi name (SSID), change passwords, block unknown devices,
         Setup and manage TP-Link routers, xDSL routers, and range extenders. Block unauthorized users, set parental controls, and optimize signal placement.
       </td>
       <td align="center">
-        <a href="YOUR_DIRECT_APK_LINK_HERE">
+        <a href="https://github.com/MR-ABID07/WIFI-Related/releases/download/V.02.07/Tether.apk">
           <img src="https://img.shields.io/badge/Direct_APK-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Direct Download" />
         </a><br><br>
         <a href="https://play.google.com/store/apps/details?id=com.tplink.tether">
@@ -59,7 +59,7 @@ Easily configure your WiFi name (SSID), change passwords, block unknown devices,
         Smart home network management for Tenda routers. Supports remote cloud management, bandwidth control, guest network setup, and one-click optimization.
       </td>
       <td align="center">
-        <a href="YOUR_DIRECT_APK_LINK_HERE">
+        <a href="https://github.com/MR-ABID07/WIFI-Related/releases/download/V.02.07/tenda-wifi.apk">
           <img src="https://img.shields.io/badge/Direct_APK-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Direct Download" />
         </a><br><br>
         <a href="https://play.google.com/store/apps/details?id=com.tenda.router.app">
@@ -80,7 +80,7 @@ Easily configure your WiFi name (SSID), change passwords, block unknown devices,
         Lightweight utility for configuring Netis & Bee routers without complex web portals. Easily view connected clients, adjust WiFi settings, and monitor status.
       </td>
       <td align="center">
-        <a href="YOUR_DIRECT_APK_LINK_HERE">
+        <a href="https://github.com/MR-ABID07/WIFI-Related/releases/download/V.02.07/BeeWifi_2.1.0.apk">
           <img src="https://img.shields.io/badge/Direct_APK-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Direct Download" />
         </a><br><br>
         <a href="https://play.google.com/store/apps/details?id=com.netis.quickconfig">
@@ -101,7 +101,7 @@ Easily configure your WiFi name (SSID), change passwords, block unknown devices,
         Enterprise & home cloud management for Ruijie Reyee routers and access points. Features topology visualization, mesh pairing, and remote diagnostics.
       </td>
       <td align="center">
-        <a href="YOUR_DIRECT_APK_LINK_HERE">
+        <a href="https://github.com/MR-ABID07/WIFI-Related/releases/download/V.02.07/Ruijie_Reyee.apk">
           <img src="https://img.shields.io/badge/Direct_APK-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Direct Download" />
         </a><br><br>
         <a href="https://play.google.com/store/apps/details?id=cn.com.ruijie.cloudapp">
