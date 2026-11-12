@@ -1,183 +1,126 @@
-# WIFI PASSWORD'S
+<div align="center">
 
+  # 📡 WiFi & Router Remote Control Hub
+  **All-in-one collection of official router management apps, direct APKs, and network utilities.**
 
-### 1. Name: - Bashundhara Diagnostic!
+  [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
+  [![Category](https://img.shields.io/badge/Category-WiFi_Tools-0078D4?style=for-the-badge&logo=wifi&logoColor=white)](#)
+  [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](#)
 
-Password: `12345678`
+</div>
 
-Web_Login: `@user123`  
+---
 
+## 📱 Supported Router Management Apps
 
-##       ↡ 
+Easily configure your WiFi name (SSID), change passwords, block unknown devices, and monitor network speed directly from your smartphone.
 
-```bash 
-2.4GHz Network Name (SSID): SAM
-5GHz Network Name (SSID): SAM-5G
-            ↓
- Password: @sam/Password
-```
-#### Location : Mea parar Mor
+<table>
+  <thead>
+    <tr>
+      <th align="center" width="90px">Logo</th>
+      <th align="left" width="180px">App & Brand</th>
+      <th align="left">Key Features & Details</th>
+      <th align="center" width="170px">Download Links</th>
+    </tr>
+  </thead>
+  <tbody>
+    <!-- TP-LINK TETHER -->
+    <tr>
+      <td align="center">
+        <img src="assets/logos/tplink-tether.png" width="60" height="60" alt="TP-Link Tether Logo" style="border-radius: 12px;" />
+      </td>
+      <td>
+        <strong>TP-Link Tether</strong><br>
+        <sub>Brand: TP-Link</sub>
+      </td>
+      <td>
+        Setup and manage TP-Link routers, xDSL routers, and range extenders. Block unauthorized users, set parental controls, and optimize signal placement.
+      </td>
+      <td align="center">
+        <a href="YOUR_DIRECT_APK_LINK_HERE">
+          <img src="https://img.shields.io/badge/Direct_APK-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Direct Download" />
+        </a><br>
+        <a href="https://play.google.com/store/apps/details?id=com.tplink.tether">
+          <img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+        </a>
+      </td>
+    </tr>
+    <!-- TENDA WIFI -->
+    <tr>
+      <td align="center">
+        <img src="assets/logos/tenda-wifi.png" width="60" height="60" alt="Tenda WiFi Logo" style="border-radius: 12px;" />
+      </td>
+      <td>
+        <strong>Tenda WiFi</strong><br>
+        <sub>Brand: Tenda</sub>
+      </td>
+      <td>
+        Smart home network management for Tenda routers. Supports remote cloud management, bandwidth control, guest network setup, and one-click optimization.
+      </td>
+      <td align="center">
+        <a href="YOUR_DIRECT_APK_LINK_HERE">
+          <img src="https://img.shields.io/badge/Direct_APK-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Direct Download" />
+        </a><br>
+        <a href="https://play.google.com/store/apps/details?id=com.tenda.router.app">
+          <img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+        </a>
+      </td>
+    </tr>
+    <!-- BEE WIFI -->
+    <tr>
+      <td align="center">
+        <img src="assets/logos/bee-wifi.png" width="60" height="60" alt="Bee WiFi Logo" style="border-radius: 12px;" />
+      </td>
+      <td>
+        <strong>BeeWiFi</strong><br>
+        <sub>Brand: Netis / Bee</sub>
+      </td>
+      <td>
+        Lightweight utility for configuring Netis & Bee routers without complex web portals. Easily view connected clients, adjust WiFi settings, and monitor status.
+      </td>
+      <td align="center">
+        <a href="YOUR_DIRECT_APK_LINK_HERE">
+          <img src="https://img.shields.io/badge/Direct_APK-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Direct Download" />
+        </a><br>
+        <a href="https://play.google.com/store/apps/details?id=com.netis.quickconfig">
+          <img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+        </a>
+      </td>
+    </tr>
+    <!-- RUIJIE REYEE -->
+    <tr>
+      <td align="center">
+        <img src="assets/logos/ruijie-reyee.png" width="60" height="60" alt="Ruijie Reyee Logo" style="border-radius: 12px;" />
+      </td>
+      <td>
+        <strong>Ruijie Reyee</strong><br>
+        <sub>Brand: Ruijie Networks</sub>
+      </td>
+      <td>
+        Enterprise & home cloud management for Ruijie Reyee routers and access points. Features topology visualization, mesh pairing, and remote diagnostics.
+      </td>
+      <td align="center">
+        <a href="YOUR_DIRECT_APK_LINK_HERE">
+          <img src="https://img.shields.io/badge/Direct_APK-2ea44f?style=for-the-badge&logo=android&logoColor=white" alt="Direct Download" />
+        </a><br>
+        <a href="https://play.google.com/store/apps/details?id=cn.com.ruijie.cloudapp">
+          <img src="https://img.shields.io/badge/Play_Store-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play" />
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
-### 2.  Network Name: MR Islam_Link3
+---
 
-Password: `SumonHSE`
+## 🛠️ Quick Setup Guide
 
+1. **Connect to WiFi:** Ensure your phone is connected to the router's default WiFi network.
+2. **Install App:** Use the **Direct APK** button (if you don't have Play Services) or the **Play Store** button above.
+3. **Log In:** Open the app and enter your router's admin password (usually found on the sticker underneath the router).
 
-### 3.  Network name: Masud Karim
+---
 
-Password: `04011975 `
-
-Web_Login : `admin1234 `   
-
-
-##  ↡ 
-
-```bash
-Network Name: MIM__∞  (Hidden)
-Password : #mimPassword
-```
-
-### 4. Network name: Alvi Rana
-
-Password: `01650247378` → web login
-### Network name: $ (Hidden)-5G
-Password: `@Password/69`
-##  ↡ 
-```bash
-Network Name: STAR_LINK__📡 2.4G 
-       &   STAR_LINK_5G-📡
-            ↡ 
-Password: @deauther/pass.net
-```
- ### 5. Network Name (SSID): popy garden
-Password: `popy530514`  
-##  ↡ 
-```bash
-Network Name (SSID): TP (hidden)
-Password:  asdfghjkl
-```
-#### Location : Rahi dar bari
-
-### 6. Network Name (SSID): Dr Alhaz
-Password: `2813aakk`     
-##  ↡ 
-```bash
-Network name: (          )
-Password: 2813aakk
-```
-#### Location : Rahi dar bari
-
-### 7. Network Name : Op.Rosevilla@sparkonline
-Password: `azad1970`
-
-### 8. Network Name : Fagun 😎
-Password: `FaguN@#37`
-
-### 9. Network Name: omor
-Password: `55555555`
-
-Web_Login: `@user123`
-##  ↡ 
-```bash
-Network name: jams
-Password: 11223344@
-```
-### 10. Network Name: Siddikur
-Password: `21663240`
-##  ↡ 
-```bash
-network Name: TP → (Hidden)
-Password: @AaaaaaaA
-```
-### 11. Network Name: abdulrzzak
-Password: `01733121776`
-
-Web login: `admin1`
-
-##  ↡ 
-```bash 
-Network: MIM_↑↓
-Password: @deauther/pass.net
-```
-
-
-### 12. Network Name: Tasin
-
-Password: `binti@200`
-
-Web Login `@tasin@`
-
-
-
-
-### 13. Network Name: Afia anzum + 5G (sm)
-Password: `12345678`
-
-Web Login: `userab`
-##  ↡ 
-```bash
-Network Name: $ / $-5G
-Password: @Password
-```
-#### Location : Old Bus_Stand
-
-### 14. Network Name: Khushi
-Password: `khushi1210`
-
-Web Login: `@user123`
-##  ↡ 
-```bash
-Network Name: ZTE_5G_ALT
-Password: $tuikedahala@
-```
-
-
-
-### 15. Network Name: Hamja
-Password: `12345678`
-
-##  ↡ 
-```bash
-Network Name: Tenda_VIP2
-Password: $1234567/
-``` 
-### 16. Network Name: ROUSHON
-Password: `rashad0010`
-#### Location : Rashad vai from Rajbari
-
-
-
-### 17. Network Name name: Sumon
-
-Password: `22446688`
-
-Web Login: `user`,`@user`
-#### Location : Rajbari
-
-### 18. Network Name name: Shoriful islam
-Password: `31121983`
-#### Location : Bonogram (MaMa)
-
-### 19. Network Name name: Mitu net
-Password: `32749733`
-
-
-### 20. Network Name name: Op.Rosevilla@sparkonline
-Password: `azad1970`
-
-### 21. Network Name name: Miraj
-Password: `20002000`
-#### Location : Mokor Dukan 
-
-### 22. Network name: kantathai/-5G
-
-Password: `55555555` → web login
-##  ↡ 
-```bash 
-Network name: SAM_V2/-5G
-Password: @deauther/sam.pass
-```
-#### Location : Gausear pashea
-
-### 23. Network Name: ZTE_2.4G_kCTXq7
-Password: `R3KGC4kk`
+## ⚠️ Disclaimer
+All app logos and trademarks belong to their respective owners (TP-Link, Tenda, Netis, Ruijie Networks). Direct APK links are provided solely for educational and offline installation convenience.
