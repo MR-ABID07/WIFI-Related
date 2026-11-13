@@ -119,3 +119,19 @@ Easily configure your WiFi name (SSID), change passwords, block unknown devices,
 1. **Connect to WiFi:** Ensure your phone is connected to the router's local network.
 2. **Install App:** Use the **Direct APK** button or the **Play Store** button above.
 3. **Log In:** Open the app and log in using your admin credentials.
+## 🛡️ Content Filters & Secure DNS
+
+Configure these DNS addresses in your router or device settings to block adult content, ads, and malicious sites network-wide. Click the copy icon in the top-right corner of any IP box to copy it.
+
+### 🏆 1. 👨‍👧 Family Filter (Security + Adult Block)
+Blocks adult content, malware, phishing attempts, and ads across all connected devices.
+
+**Primary DNS** *(CleanBrowsing Family Filter)*
+```text
+185.228.168.168
+```
+
+**Secondary DNS** *(AdGuard Family Protection)*
+```text
+94.140.14.15
+```
