@@ -3,7 +3,7 @@
   # 📡 WiFi & Router Remote Control Hub
   **All-in-one collection of official router management apps, direct APKs, and network utilities.**
 
-  [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](assets/logos)
+  [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](logins/apps/)
   [![Category](https://img.shields.io/badge/Category-WiFi_Tools-0078D4?style=for-the-badge&logo=wifi&logoColor=white)](#)
   [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](#)
 
@@ -119,11 +119,18 @@ Easily configure your WiFi name (SSID), change passwords, block unknown devices,
 1. **Connect to WiFi:** Ensure your phone is connected to the router's local network.
 2. **Install App:** Use the **Direct APK** button or the **Play Store** button above.
 3. **Log In:** Open the app and log in using your admin credentials.
+
+---
+
 ## 🛡️ Content Filters & Secure DNS
 
-Configure these DNS addresses in your router or device settings to block adult content, ads, and malicious sites network-wide. Click the copy icon in the top-right corner of any IP box to copy it.
+Configure these DNS addresses in your router or device settings to block adult content, ads, and malicious sites network-wide. Click the dropdown arrow below to reveal the DNS addresses, then use the copy icon in the top-right corner of any IP box.
 
-### 🏆 1. 👨‍👧 Family Filter (Security + Adult Block)
+<details>
+  <summary><strong>🏆 1. 👨‍👧 Family Filter (Security + Adult Block) — <em>Click to show DNS</em></strong></summary>
+
+<br>
+
 Blocks adult content, malware, phishing attempts, and ads across all connected devices.
 
 **Primary DNS** *(CleanBrowsing Family Filter)*
@@ -135,3 +142,5 @@ Blocks adult content, malware, phishing attempts, and ads across all connected d
 ```text
 94.140.14.15
 ```
+
+</details>
