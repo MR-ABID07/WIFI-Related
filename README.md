@@ -3,7 +3,7 @@
   # 📡 WiFi & Router Remote Control Hub
   **All-in-one collection of official router management apps, direct APKs, and network utilities.**
 
-  [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](#)
+  [![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](assets/logos)
   [![Category](https://img.shields.io/badge/Category-WiFi_Tools-0078D4?style=for-the-badge&logo=wifi&logoColor=white)](#)
   [![License](https://img.shields.io/badge/License-MIT-orange?style=for-the-badge)](#)
 
