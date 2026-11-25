@@ -10,10 +10,10 @@
 ## Shared / Public Login Entry
 * **Account / Email:**
 ```text
-REPLACE_WITH_LOGIN_OR_EMAIL
+mr.weird.ab@gmail.com
 ```
 * **Password:**
 ```text
-REPLACE_WITH_PASSWORD
+#password/mim!
 ```
 * **Notes:** Add model-specific notes, cloud ID, or reset instructions here.
