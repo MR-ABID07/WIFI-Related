@@ -10,10 +10,10 @@
 ## Shared / Public Login Entry
 * **Account / Email:**
 ```text
-REPLACE_WITH_LOGIN_OR_EMAIL
+mr.weird.ab@gmail.com
 ```
 * **Password:**
 ```text
-REPLACE_WITH_PASSWORD
+@pass_Tenda-54567
 ```
 * **Notes:** Add model-specific notes (e.g., F3, AC10, Nova Mesh), cloud account details, or reset instructions here.
