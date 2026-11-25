@@ -10,10 +10,10 @@
 ## Shared / Public Login Entry
 * **Ruijie Cloud Account / Email:**
 ```text
-REPLACE_WITH_LOGIN_OR_EMAIL
+mr.psycho.hacks@gmail.com
 ```
 * **Password:**
 ```text
-REPLACE_WITH_PASSWORD
+#Cloud/pass.75
 ```
 * **Notes:** Add project/network name, serial number notes (if needed), mesh pairing tips, or factory reset instructions here.
